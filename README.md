@@ -9,3 +9,4 @@ Sau đây là link data được lưu ở Google Drive: https://drive.google.com
 
 Nhóm đã triển khai 4 mô hình là RNN, LSTM, Transformer và Autoformer tất cả đều thu được kết quả dự đoán vô cùng chính xác sau 
 quá trình huấn luyện
+Link website: https://deploy-6zsv.onrender.com/
